@@ -36,6 +36,7 @@ A tabela 1 aponta todos os requisitos funcionais elicitados:
 | RF8  | O usuário deve poder interagir com o MOJITO através do proprio MOJ | Não          |
 | RF9  | O usuário deve poder escrever o código dentro do MOJ               | Não          |
 | RF10 | O usuário deve poder encontrar questões fora dos contests          | Não          |
+| RF11 | O usuário deve poder ter acesso a um FAQ                           | Não          |
 
 <p align="center"> Tabela 1: Requisitos elicitados. Fonte: autores, 2023</p>
 
