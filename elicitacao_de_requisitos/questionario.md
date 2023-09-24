@@ -73,10 +73,6 @@ A tabela 2 aponta todos os requisitos não-funcionais elicitados:
 >
 > [5] DOS, Contribuidores. Coeficiente de correlação de Pearson. Wikipedia.org. Disponível em: <https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson>. Acesso em: 22 set. 2023.
 
-‌
-
-‌
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição               | Autor(es) | Revisor(es) |
