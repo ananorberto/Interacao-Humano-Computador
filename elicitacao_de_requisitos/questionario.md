@@ -37,6 +37,7 @@ A tabela 1 aponta todos os requisitos funcionais elicitados:
 | RF9  | O usuário deve poder escrever o código dentro do MOJ               | Não          |
 | RF10 | O usuário deve poder encontrar questões fora dos contests          | Não          |
 | RF11 | O usuário deve poder ter acesso a um FAQ                           | Não          |
+| RF12 | O usuário deve poder sugerir problemas através de uma area especifica | Não       |
 
 <p align="center"> Tabela 1: Requisitos elicitados. Fonte: autores, 2023</p>
 
@@ -56,6 +57,7 @@ A tabela 2 aponta todos os requisitos não-funcionais elicitados:
 | RNF8  | O sistema deve fornecer explicação sobre sua linguagem ao usuário | Talvez       |
 | RNF9  | O sistema deve ter fontes grandes, assim como seus botões         | Não          |
 | RNF10 | O sistema deve fornecer informações sobre seu funcionamento       | Não          |
+| RNF11 | O sistema deve prover sempre o compilador mais atualizado         | Não          |
 
 <p align="center"> Tabela 2: Requisitos elicitados. Fonte: autores, 2023</p>
 
@@ -70,10 +72,6 @@ A tabela 2 aponta todos os requisitos não-funcionais elicitados:
 > [4] DOS, Contribuidores. Alfa de Cronbach. Wikipedia.org. Disponível em: <https://pt.wikipedia.org/wiki/Alfa_de_Cronbach>. Acesso em: 22 set. 2023.
 >
 > [5] DOS, Contribuidores. Coeficiente de correlação de Pearson. Wikipedia.org. Disponível em: <https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson>. Acesso em: 22 set. 2023.
-
-‌
-
-‌
 
 ## Histórico de Versões
 
