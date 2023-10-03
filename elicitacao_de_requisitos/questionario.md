@@ -24,20 +24,20 @@ Antes da analise, foi feito um tratamento dos dados, por fim o processo de anali
 
 A tabela 1 aponta todos os requisitos funcionais elicitados:
 
-| ID   | Description                                                        | Implementado |
-| ---- | ------------------------------------------------------------------ | ------------ |
-| RF1  | O usuário deve submeter seus códigos                               | Sim          |
-| RF2  | O usuário deve poder encontrar suas listas                         | Sim          |
-| RF3  | O usuário deve poder logar em suas listas                          | Sim          |
-| RF4  | O usuário deve poder ocultar submissões já feitas                  | Não          |
-| RF5  | O usuário deve poder escolher a linguagem para submeter seu código | Sim          |
-| RF6  | O usuário deve poder encontrar suas listas através de tags         | Não          |
-| RF7  | O usuário deve poder recuperar arquivos de submissões anteriores   | Não          |
-| RF8  | O usuário deve poder interagir com o MOJITO através do proprio MOJ | Não          |
-| RF9  | O usuário deve poder escrever o código dentro do MOJ               | Não          |
-| RF10 | O usuário deve poder encontrar questões fora dos contests          | Não          |
-| RF11 | O usuário deve poder ter acesso a um FAQ                           | Não          |
-| RF12 | O usuário deve poder sugerir problemas através de uma area especifica | Não       |
+| ID   | Description                                                           | Implementado |
+| ---- | --------------------------------------------------------------------- | ------------ |
+| RF1  | O usuário deve submeter seus códigos                                  | Sim          |
+| RF2  | O usuário deve poder encontrar suas listas                            | Sim          |
+| RF3  | O usuário deve poder logar em suas listas                             | Sim          |
+| RF4  | O usuário deve poder ocultar submissões já feitas                     | Não          |
+| RF5  | O usuário deve poder escolher a linguagem para submeter seu código    | Sim          |
+| RF6  | O usuário deve poder encontrar suas listas através de tags            | Não          |
+| RF7  | O usuário deve poder recuperar arquivos de submissões anteriores      | Não          |
+| RF8  | O usuário deve poder interagir com o MOJITO através do proprio MOJ    | Não          |
+| RF9  | O usuário deve poder escrever o código dentro do MOJ                  | Não          |
+| RF10 | O usuário deve poder encontrar questões fora dos contests             | Não          |
+| RF11 | O usuário deve poder ter acesso a um FAQ                              | Não          |
+| RF12 | O usuário deve poder sugerir problemas através de uma area especifica | Não          |
 
 <p align="center"> Tabela 1: Requisitos elicitados. Fonte: autores, 2023</p>
 
