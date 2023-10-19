@@ -26,7 +26,7 @@ A tabela 1 aponta todos os requisitos funcionais elicitados:
 
 | ID   | Description                                                           | Implementado |
 | ---- | --------------------------------------------------------------------- | ------------ |
-| RF1  | O usuário deve submeter seus códigos                                  | Sim          |
+| RF1  | O usuário deve poder submeter seus códigos                            | Sim          |
 | RF2  | O usuário deve poder encontrar suas listas                            | Sim          |
 | RF3  | O usuário deve poder logar em suas listas                             | Sim          |
 | RF4  | O usuário deve poder ocultar submissões já feitas                     | Não          |
