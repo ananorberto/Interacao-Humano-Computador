@@ -10,13 +10,13 @@ Para a realização da entrevista, foi realizado um brainstorming entre os encar
 ## Requisitos elicitados
 A tabela 1 evidencia todos os requisitos elicitados através da técnica de entrevista. Segue a tabela:
 
-| Id    | Requisito                                                                                                            | Tipo          |
+| Id    | Requisito                                                                                                            | Implementado          |
 | ----- | -------------------------------------------------------------------------------------------------------------------- | ------------- |
-| ENT01 | A aplicação deve ter um método de filtragem de listas e contests.                                                    | Funcional     |
-| ENT02 | A aplicação deve possuir uma identidade visual memorável e agradável para o usuário.                                 | Não funcional |
-| ENT03 | A aplicação deve possuir sistema único de login para os alunos cadastrados.                                          | Funcional     |
-| ENT04 | A aplicação deve mostrar para cada submissão não aprovada um relatório detalhado de  falhas para o código submetido. | Funcional     |
-| ENT05 | A aplicação deve fornecer botões grades o suficiente para o usuário                                                  | Não funcional |
+| ENT01 | A aplicação deve ter um método de filtragem de listas e contests.                                                    | Não |
+| ENT02 | A aplicação deve possuir uma identidade visual memorável e agradável para o usuário.                                 | Não |
+| ENT03 | A aplicação deve possuir sistema único de login para os alunos cadastrados.                                          | Não |
+| ENT04 | A aplicação deve mostrar para cada submissão não aprovada um relatório detalhado de  falhas para o código submetido. | Não |
+| ENT05 | A aplicação deve fornecer botões grades o suficiente para o usuário                                                  | Não |
 
 <div style="text-align: center">
 <p> Tabela 1: Requisitos elicitados através da técnica de entrevista, 2023).</p>
