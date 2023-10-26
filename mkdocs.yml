@@ -1,0 +1,68 @@
+site_name: IHC-CD-MOJ
+
+repo_name: IHC Moj Naquadah
+repo_url:
+site_url:
+
+copyright: Copyright &copy; 2023 IHC-CD-MOJ
+
+theme:
+  icon:
+    repo: fontawesome/brands/github-alt
+  name: material
+  language: pt-BR
+  logo: img/Simplenote.png
+  favicon: img/Simplenote-48.png
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+
+  font:
+    text: "Montserrat"
+    code: "sans-serif"
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - mkdocs-jupyter
+
+extra:
+  annotate:
+    json: [.s2]
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Requisitos-de-Software/2023.1-Simplenote
+
+nav:
+  - Home: index.md
+  - Elicitação de Requisitos:
+      - Questionário: elicitacao_de_requisitos/questionario.md
+      - Entrevista: elicitacao_de_requisitos/Entrevista.md
+  - Analise de Dados:
+      - Jupyter: analise_de_dados/analise.ipynb
+      - Questionário: analise_de_dados/perguntas_questionario.md

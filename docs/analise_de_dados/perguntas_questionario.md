@@ -21,32 +21,32 @@ As imagens a seguir abordam as perguntas e os resultados das mesmas no question�
 As imagens de 1 à 5 evidenciam as perguntas de cunho geral efetuadas no questionário.
 
 ##### Pergunta 1
-<img src="assets/1.PNG"/>
+<img src="../assets/1.PNG"/>
 <div style="text-align: center">
 <p> Imagem 1: Primeira pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/2.PNG"/>
+<img src="../assets/2.PNG"/>
 <div style="text-align: center">
-<p> Imagem 1: Segunda pergunta, 2023.</p>
+<p> Imagem 2: Segunda pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 3
-<img src="assets/3.PNG"/>
+<img src="../assets/3.PNG"/>
 <div style="text-align: center">
 <p> Imagem 3: Terceira pergunta, 2023.</p>
 </div>
 
 
 ##### Pergunta 4
-<img src="assets/4.PNG"/>
+<img src="../assets/4.PNG"/>
 <div style="text-align: center">
 <p> Imagem 4: Quarta pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 5
-<img src="assets/5.PNG"/>
+<img src="../assets/5.PNG"/>
 <div style="text-align: center">
 <p> Imagem 5: Quinta pergunta, 2023.</p>
 </div>
@@ -55,13 +55,13 @@ As imagens de 1 à 5 evidenciam as perguntas de cunho geral efetuadas no questio
 As imagens 6 e 7 evidenciam as perguntas relacionadas a primeira heurística de Nielsen.
 
 ##### Pergunta 1
-<img src="assets/6.PNG"/>
+<img src="../assets/6.PNG"/>
 <div style="text-align: center">
 <p> Imagem 6: Sexta pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/7.PNG"/>
+<img src="../assets/7.PNG"/>
 <div style="text-align: center">
 <p> Imagem 7: Sétima pergunta, 2023.</p>
 </div>
@@ -70,13 +70,13 @@ As imagens 6 e 7 evidenciam as perguntas relacionadas a primeira heurística de 
 As imagens 8 e 9 evidenciam as perguntas relacionadas a quinta heurística de Nielsen.
 
 ##### Pergunta 1
-<img src="assets/8.PNG"/>
+<img src="../assets/8.PNG"/>
 <div style="text-align: center">
 <p> Imagem 8: Oitava pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/9.PNG"/>
+<img src="../assets/9.PNG"/>
 <div style="text-align: center">
 <p> Imagem 9: Nona pergunta, 2023.</p>
 </div>
@@ -85,19 +85,19 @@ As imagens 8 e 9 evidenciam as perguntas relacionadas a quinta heurística de Ni
 As imagens 10 à 12 evidenciam as perguntas relacionadas a oitava heurística de Nielsen.
 
 ##### Pergunta 1
-<img src="assets/10.PNG"/>
+<img src="../assets/10.PNG"/>
 <div style="text-align: center">
 <p> Imagem 10: Décima pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/11.PNG"/>
+<img src="../assets/11.PNG"/>
 <div style="text-align: center">
 <p> Imagem 11: Décima primeira pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 3
-<img src="assets/12.PNG"/>
+<img src="../assets/12.PNG"/>
 <div style="text-align: center">
 <p> Imagem 12: Décima segunda pergunta, 2023.</p>
 </div>
@@ -107,13 +107,13 @@ As imagens 13 e 14 evidenciam as perguntas relacionadas a nona heurística de Ni
 
 
 ##### Pergunta 1
-<img src="assets/13.PNG"/>
+<img src="../assets/13.PNG"/>
 <div style="text-align: center">
 <p> Imagem 13: Décima Terceira pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/14.PNG"/>
+<img src="../assets/14.PNG"/>
 <div style="text-align: center">
 <p> Imagem 14: Décima quarta pergunta, 2023.</p>
 </div>
@@ -122,19 +122,19 @@ As imagens 13 e 14 evidenciam as perguntas relacionadas a nona heurística de Ni
 As imagens 15 á 17 evidenciam as perguntas relacionadas a décima heurística de Nielsen.
 
 ##### Pergunta 1
-<img src="assets/15.PNG"/>
+<img src="../assets/15.PNG"/>
 <div style="text-align: center">
 <p> Imagem 15: Décima Quinta pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 2
-<img src="assets/16.PNG"/>
+<img src="../assets/16.PNG"/>
 <div style="text-align: center">
 <p> Imagem 16: Décima Sexta pergunta, 2023.</p>
 </div>
 
 ##### Pergunta 3
-<img src="assets/17.PNG"/>
+<img src="../assets/17.PNG"/>
 <div style="text-align: center">
 <p> Imagem 17: Décima Sétima pergunta, 2023.</p>
 </div>
@@ -153,7 +153,7 @@ As imagens 15 á 17 evidenciam as perguntas relacionadas a décima heurística d
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição             | Autor | Revisor |
-| ------ | ---------- | --------------------- | ----- | ------- |
-| `1.1`  | 26/10/2023 | Criação do documento  | Kauã  | Ana     |
+| Versão | Data       | Descrição            | Autor | Revisor |
+| ------ | ---------- | -------------------- | ----- | ------- |
+| `1.1`  | 26/10/2023 | Criação do documento | Kauã  | Ana     |
 
