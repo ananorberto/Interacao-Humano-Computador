@@ -24,19 +24,19 @@
         </td>
         <td align="center">
             <a href="https://github.com/artmarmocathala">
-                <img style="border-radius: 50%;" src="https://github.com/artmarmocathala.png" width="150px;"/>
+                <img style="border-radius: 50%;" src="../assets/arthur_marmo_q%20n%20tem%20foto%20no%20github.png" width="150px;"/>
                 <h5 class="text-center">Arthur Marmo</h5>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/arthur-heleno">
-                <img style="border-radius: 50%;" src="https://github.com/arthur-heleno.png" width="150px;"/>
+                <img style="border-radius: 50%;" src="../assets/arthur_heleno_q%20n%20tem%20foto%20no%20github.png" width="150px;"/>
                 <h5 class="text-center">Arthur Heleno</h5>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/crstyhs">
-                <img style="border-radius: 50%;" src="https://github.com/crstyhs.png" width="150px;"/>
+                <img style="border-radius: 50%;" src="../assets/Christian_q n tem foto no github.png" width="150px;"/>
                 <h5 class="text-center">Christian Hirsch</h5>
             </a>
         </td>

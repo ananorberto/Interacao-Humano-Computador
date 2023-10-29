@@ -1,8 +1,8 @@
-site_name: IHC-CD-MOJ
+site_name: CD-MOJ
 
 repo_name: IHC Moj Naquadah
-repo_url:
-site_url:
+repo_url: https://github.com/ananorberto/Interacao-Humano-Computador
+site_url: https://ananorberto.github.io/Interacao-Humano-Computador/
 
 copyright: Copyright &copy; 2023 IHC-CD-MOJ
 
@@ -11,7 +11,7 @@ theme:
     repo: fontawesome/brands/github-alt
   name: material
   language: pt-BR
-  logo: img/Simplenote.png
+  logo: assets/logo-removebg-preview.png
   favicon: img/Simplenote-48.png
 
   features:
@@ -60,9 +60,8 @@ extra:
 
 nav:
   - Home: index.md
+  - Questionário: analise_de_dados/perguntas_questionario.md
+  - Analise de Dados: analise_de_dados/analise.ipynb
   - Elicitação de Requisitos:
       - Questionário: elicitacao_de_requisitos/questionario.md
       - Entrevista: elicitacao_de_requisitos/Entrevista.md
-  - Analise de Dados:
-      - Jupyter: analise_de_dados/analise.ipynb
-      - Questionário: analise_de_dados/perguntas_questionario.md
