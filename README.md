@@ -11,7 +11,7 @@
 ## :earth_americas: Sobre o projeto
    Este repositório é dedicado ao site [**Moj Naquadah**](https://moj.naquadah.com.br/cgi-bin/index.sh) com a finalidade de melhorar a interação com o usuário do mesmo para a disciplina de Interação Humano Computador da turma 2023.2, ministrada pelo professor Sergio Andrade. CD-MOJ é um juiz online direcionado a contests destinado ao público universitário.
 
-## Protótipo do Figma
+# Protótipo do Figma
 
 Confira o protótipo do Figma clicando [aqui](https://www.figma.com/proto/7ONJcyltgc1gWQQcgCRyjq/CD-MOJ?node-id=149-186&t=XFuqAfjLPHWOJypk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=149%3A186).
 
@@ -81,7 +81,8 @@ Ou clique na imagem abaixo para acessar o protótipo:
 
 ## Histórico de Versão
 
-| Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 13/09/2023    | Criação e inclusão dos membros     | Ana Beatriz   | Kauã          |
+| Versão | Data          | Descrição                                              | Autor(es)     |  Revisor(es)  |
+| ------ | ------------- | ------------------------------------------------------ | ------------- | ------------- |
+| `1.0`  | 13/09/2023    | Criação e inclusão dos membros                         | Ana Beatriz   | Kauã          |
+| `1.1`  | 12/07/2024    | Adicionando protóripo de alta fidelidade ao Readme     | Ana Beatriz   | Arthur        |
 
